@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesWingert
 - 👀 I’m interested in all things technology, basketball, finance, and dogs!
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on JavaScript/Python/Go projects.
+- 🌱 I’m currently learning JavaScript/Python.
+- 💞️ I’m looking to collaborate on JavaScript/Python and their associated frameworks projects.
 - 📫 How to reach me jamespwingert@gmail.com
 
 <!---
