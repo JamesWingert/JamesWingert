@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @JamesWingert
 - 👀 I’m interested in all things technology, basketball, finance, and dogs!
-- 🌱 I’m currently learning C#.
 - 📫 jamespwingert@gmail.com
 
 <!---
